@@ -21,7 +21,7 @@ A simple web page developed in HTML/CSS, designed for the role of Shopify Develo
 
 Page Load TIme has been calculated by using the [Lighthouse Tool](https://developers.google.com/web/tools/lighthouse).
 
-![img](<img width="686" alt="dndlab lighthouse" src="https://github.com/blueuwu/Assessment/assets/80516804/1a4d678e-5e79-415c-8909-08401ef12dac">)
+![img](https://github-production-user-asset-6210df.s3.amazonaws.com/80516804/240360438-1a4d678e-5e79-415c-8909-08401ef12dac.PNG)
 
 ## Author
 Aarush Agarwal
